@@ -22,7 +22,7 @@ export default function App() {
 }
 
 function ModalWebView() {
-  return <WebView source={{ html: "<h1>Hello world</h1>" }} />;
+  return <WebView source={{ html: "<h1>react-native-webview: 13.3.1</h1>" }} />;
 }
 
 function Home({ navigation }) {
